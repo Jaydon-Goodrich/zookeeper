@@ -117,6 +117,35 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Willow",
+      "species": "monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Steve",
+      "species": "monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Becca",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
